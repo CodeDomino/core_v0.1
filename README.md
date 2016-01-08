@@ -9,6 +9,9 @@ REQUIREMENTS
 - All instructions formed by comand + parameter only;
 - Based on functions;
 
+DOMINO STRUCTURE
+- Laser Cutter in Bismarck Cardboard;
+- Code based in holes in the cardboard;
 
 BASIC COMMANDS: 
   - Forward, backward, left, right;
